@@ -27,7 +27,7 @@ For Linux:
 * **mysql v2.15.0**
 
 ### DEMO
-[DEMO](demo.mp4)
+[![DEMO](https://img.youtube.com/vi/Tjd97_ZXFoI/0.jpg)](https://youtu.be/Tjd97_ZXFoI)
 
 
 
