@@ -26,6 +26,9 @@ For Linux:
 * **inquirer v5.1.0**
 * **mysql v2.15.0**
 
+### DEMO
+[DEMO](demo.mp4)
+
 
 
 ## Author
